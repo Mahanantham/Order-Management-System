@@ -8,3 +8,5 @@ services:
     envVars:
       - key: NODE_VERSION
         value: 16.17.0
+      - key: REACT_APP_API_URL
+        value: https://order-management-api-r0e0.onrender.com
